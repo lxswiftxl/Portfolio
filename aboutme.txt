@@ -1,3 +1,5 @@
 Name: Adam Todd
 Project Goal: Master Git!
 Favorite TV Show: Doctor Who
+Favorite Quote:
+"Insipring quote goes here" - inspiring person not yet inspired
